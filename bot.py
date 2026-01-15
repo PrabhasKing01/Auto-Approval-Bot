@@ -21,7 +21,7 @@ class Bot(Client):
         me = await self.get_me()
         self.username = '@' + me.username
             
-        print('Bot Started Powered By @Tech_Shreyansh29')
+        print('Bot Started Powered By @AJ_TVSERIAL')
 
 
     async def stop(self, *args):
